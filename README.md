@@ -5,11 +5,10 @@ This project report presents on data analysis and visualization of COVID-19 data
 Italy was, unfortunately, one of the most impacted countries during pandemic, so in this project I try to obtain some insights by visualizing the available data. 
 
 # <sub>Data</sub>
-I have used the data that is found in https://www.kaggle.com/datasets /sudalairajkumar/covid19-in-italy . Further information on the data can be found by following the link.
+The data that was used for this project can be found in https://www.kaggle.com/datasets/sudalairajkumar/covid19-in-italy . Further information on the data can be found by following the link.
 
 # <sub>Visualization</sub>
-
-Let's see in detail:
+In this section we present some of the plots that were generated.
 
 1. Visualising Total Positive Cases vs Deaths
 ![](plots/TotalPositiveCases_vs_Deaths.jpg)
