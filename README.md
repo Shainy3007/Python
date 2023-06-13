@@ -1,30 +1,29 @@
-# Python
-DATA SCIENCE INTERNSHIP
-So here is my project report present ing to you on Dats Analysis of covid -19 data in Italy
+# Explorative Data Analysis of COVID-19 Data in Italy
 
-Explorative Data Analysis of Covid-19 Data in Italy
+This project report presents on data analysis and visualization of COVID-19 data of Italy.
+<br /> <br />
+Italy was, unfortunately, one of the most impacted countries during pandemic, so in this project I try to obtain some insights by visualizing the available data. 
 
-Italy is, unfortunately, one of the most impacted countries by the pandemic disease, so I'm trying to find some insights in the available data about it.
+# <sub>Data</sub>
+I have used the data that is found in https://www.kaggle.com/datasets /sudalairajkumar/covid19-in-italy . Further information on the data can be found by following the link.
 
-Here I'm using data that is updated in https://www.kaggle.com/datasets /sudalairajkumar/covid19-in-italy
-
-The data
-
-All the info of the data can be found in kaggle.com
+# <sub>Visualization</sub>
 
 Let's see in detail:
 
 1. Visualising Total Positive Cases vs Deaths
+![](plots/TotalPositiveCases_vs_Deaths.jpg)
 
-2. Visualising a line graph of
+2. Visualising a line graph of HospitalizedPatients vs home confinement
+![](plots/Recovered_vs_HomeConfinement.jpg)
 
-HospitalizedPatients vs home
+3. Visualising NewPositive Cases vs Recovered
+![](plots/NewPositiveCases_vs_Recovered.jpg)
 
-confinement
+4. Visualising Total PositiveCases vs NewPositive Cases and introducing HUE through Recovered data
+![](plots/TotalPositiveCases_vs_NewPositiveCases.jpg)
 
-3. Creating a pairplot of complete data
+5. Creating a pairplot of complete data
+![](plots/gridView.jpg)
 
-4. Visualising NewPositive Cases vs Recovered
-
-5. Visualising Total PositiveCases vs NewPositive Cases and introducing HUE through Recovered data
 
